@@ -9,8 +9,7 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+https://dev.to/davi_arttur/testes-de-integracao-com-nestjs-jest-supertest-prisma-e-testcontainers-9bg
 
 ## Installation
 
